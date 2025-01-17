@@ -1,6 +1,3 @@
-Here’s the scenario and tasks formatted in markdown: 
-
-```markdown
 # AIS Message Analysis System Design
 
 ## Scenario
@@ -126,6 +123,3 @@ Write a SQL query to detect potential ship collisions where:
 
 #### Deliverables:
 - SQL query for collision detection.
-```
-
-This markdown format is structured and concise, making it suitable for documentation or project submission.
